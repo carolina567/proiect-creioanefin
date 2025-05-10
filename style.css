@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: hsl(0, 0%, 0%);
+      background-image: url('https://s13emagst.akamaized.net/products/38567/38566813/images/res_8510e03d49097ad7f94817b4c38b0014.jpg?width=720&height=720&hash=6116F41E0DC24FCDD39DD23999867BDD');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    background: rgba(209, 191, 191, 0.7);
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+   color: #000000;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+  padding: 2rem;
+  padding: 20px;
+    background:rgba(209, 191, 191, 0.7) ;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th, td {
+  border: 1px solid #d35656;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #d34d4d;
+}
